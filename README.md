@@ -115,10 +115,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 * [Ollama GitHub](https://github.com/ollama/ollama)
 
 ```
----
-
-✅ Copy this entire file as your `README.md`  
-✅ It includes everything GitHub expects — clean, professional, and functional.
-
-
-
